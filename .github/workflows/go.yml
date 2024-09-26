@@ -37,5 +37,5 @@ jobs:
       uses: docker/build-push-action@v6
       with:
         push: true
-        tags: riska04/praktikum-popl4:latest
+        tags: riska04/praktikum_popl4:latest
       
